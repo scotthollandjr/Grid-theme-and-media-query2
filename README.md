@@ -1,6 +1,6 @@
 # _Grid, Theme, and Media Query Practice_
 
-##### _12/11/2015_
+##### _12/12/2015_
 
 #### By _**Scott Holland, Jr.**_
 
